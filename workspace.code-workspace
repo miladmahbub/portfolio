@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\scic-project\\portfolio"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "portfolio"
+  }
+}
